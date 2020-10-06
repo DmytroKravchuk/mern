@@ -1,0 +1,33 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "full stack project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmytroKravchuk/mern.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmytroKravchuk/mern/issues"
+  },
+  "homepage": "https://github.com/DmytroKravchuk/mern#readme",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "concurrently": "^5.3.0"
+  }
+}
