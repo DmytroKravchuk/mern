@@ -1,5 +1,6 @@
 {
     "port": 5000,
     "jwtSecret": "dima mern",
-    "mongoUri": "mongodb+srv://dmitry:Lbyfvjrbtd12@cluster0.tuxx4.azure.mongodb.net/app?retryWrites=true&w=majority"
+    "mongoUri": "mongodb+srv://dmitry:Lbyfvjrbtd12@cluster0.tuxx4.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
 }
